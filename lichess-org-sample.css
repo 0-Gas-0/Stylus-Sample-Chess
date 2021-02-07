@@ -1,3 +1,8 @@
+/* ==UserStyle==
+@name           Lichess.org Sample
+@author         Gas
+@description    `Lichess.org Sample Theme For Stylus`
+==/UserStyle== */
 @-moz-document domain("lichess.org") {
 piece.pawn.black {
     background-image: url("https://i.imgur.com/example-pawn-black.png")!important;
