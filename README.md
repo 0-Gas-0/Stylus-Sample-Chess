@@ -11,7 +11,7 @@ To create and apply new themes, the Stylus navigator extension is needed. You ca
 To replace the chess pieces, you will have to upload them to the Imgur site (or another image hosting site, it's up to you to test). To do this:
 - Go to imgur.com
 - Sign-in/sign-up
-- Publish your images (regardless of whether they are private or not).
+- Publish your images (regardless of whether they are private or not)
 
 ## Third Step : Modification of the Sample CSS
 - Make sure all your images have been uploaded
@@ -22,7 +22,7 @@ To replace the chess pieces, you will have to upload them to the Imgur site (or 
 ## Fourth Step : Copying on Stylus
 - Open the settings for the Stylus extension
 - Create a new theme by pressing "Write a new style" 
-- Paste it in the appropriate area.
+- Paste it in the appropriate area
 
 ## Fifth and final Step : Enjoy
 And here we are! Already will you ask me? Of course yes, it was really not complicated, isn't it ? Chess is an amazing game, now enjoy it in any style you like!
