@@ -1,0 +1,53 @@
+@-moz-document domain("lichess.org") {
+piece.pawn.black {
+    background-image: url("https://i.imgur.com/example-pawn-black.png")!important;
+}
+
+piece.knight.black {
+    background-image: url("https://i.imgur.com/example-knight-black.png")!important;
+}
+
+piece.bishop.black {
+    background-image: url("https://i.imgur.com/example-bishop-black.png")!important;
+}
+
+piece.rook.black {
+    background-image: url("https://i.imgur.com/example-rook-black.png")!important;
+}
+
+piece.queen.black {
+    background-image: url("https://i.imgur.com/example-queen-black.png")!important;
+}
+
+piece.king.black {
+    background-image: url("https://i.imgur.com/example-king-black.png")!important;
+}
+
+piece.pawn.white {
+    background-image: url("https://i.imgur.com/example-pawn-white.png")!important;
+}
+
+piece.knight.white {
+    background-image: url("https://i.imgur.com/example-knight-white.png")!important;
+}
+
+piece.bishop.white {
+    background-image: url("https://i.imgur.com/example-bishop-white.png")!important;
+}
+
+piece.rook.white {
+    background-image: url("https://i.imgur.com/example-rook-white.png")!important;
+}
+
+piece.queen.white {
+    background-image: url("https://i.imgur.com/example-queen-white.png")!important;
+}
+
+piece.king.white {
+    background-image: url("https://i.imgur.com/example-king-white.png")!important;
+}
+
+cg-square.last-move {
+    background-color: rgba(255, 255, 0, 0.141) !important;
+}
+}
