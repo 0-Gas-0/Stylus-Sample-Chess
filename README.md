@@ -17,7 +17,7 @@ To replace the chess pieces, you will have to upload them to the Imgur site (or 
 - Make sure all your images have been uploaded
 - Open the sample file
 - Replace the Imgur links with those of your images
-- Save, then copy (ctrl-c) all of the text.
+- Save, then copy (ctrl-c) all of the text
 
 ## Fourth Step : Copying on Stylus
 - Open the settings for the Stylus extension
