@@ -24,5 +24,5 @@ To replace the chess pieces, you will have to upload them to the Imgur site (or 
 - Create a new theme by pressing "Write a new style" 
 - Paste it in the appropriate area.
 
-## Fifth and final Step :
+## Fifth and final Step : Enjoy
 And here we are! Already will you ask me? Of course yes, it was really not complicated, isn't it ? Chess is an amazing game, now enjoy it in any style you like!
